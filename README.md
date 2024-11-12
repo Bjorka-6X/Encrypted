@@ -28,6 +28,6 @@ ENCODE PYTHON
   - Running on Termux
 
   ```
-  $ cd dump
+  $ cd Encrypted
   $ python enc.py
   ```
