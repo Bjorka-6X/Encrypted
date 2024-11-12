@@ -23,11 +23,11 @@ ENCODE PYTHON
   $ pip install bs4
   $ git clone https://github.com/Bjorka-6X/Encrypted.git
   $ cd Encrypted
-  $ python enc.py
+  $ python ence.py
   ```
   - Running on Termux
 
   ```
   $ cd Encrypted
-  $ python enc.py
+  $ python ence.py
   ```
