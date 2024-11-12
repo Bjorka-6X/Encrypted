@@ -21,7 +21,7 @@ ENCODE PYTHON
   $ pip install requests
   $ pip install rich
   $ pip install bs4
-  $ git clone https://github.com/Asep-Yusup/Encrypted.git
+  $ git clone https://github.com/Bjorka-6X/Encrypted.git
   $ cd Encrypted
   $ python enc.py
   ```
